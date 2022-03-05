@@ -1,0 +1,1149 @@
+
+
+No I'll get my car tomorrow
+I had too many
+
+Got an Uber coming Thank you
+
+That was fast
+
+Hello For Jim
+
+RICHARD Yep
+
+Oh would you would you care for a water
+
+Why are your fingers orange
+
+Its Its iodine
+
+Ive been biting my nails so I put this on there to stop me from doing it
+
+Looks like Cheetos tastes like asshole
+
+So what do you do
+
+Venture capital over at Wood Opal
+
+Wow
+
+Wow Good
+
+ Mmhmm
+ RINGING
+
+Uh can I take this
+
+ Sure
+ All right
+
+Hello hi
+
+My goodness this video chat app
+
+is lightyears ahead of anything else out there on the market
+
+I agree
+
+Yes and you can add multiple concurrent users with no loss in picture quality even on conventional G
+
+Lets see what happens when we add more friends
+
+Hi friend Whats up
+
+Hello friend
+
+JARED Hey should we add another friend
+
+Yeah we should
+
+How many friends can we conference at the same time
+
+Well thanks to the amazing new TURN server as many as you like
+
+What if someone is in an area with poor cellular reception
+
+I doubt it would even work
+
+ And if it did the lag the video quality
+ SIGHS
+
+that would be horrible
+
+Well lets find out
+
+Could you keep your eyes on the road please
+
+Yeah got it Im on it
+
+Hey friends
+
+Wow Look at that The image is so clear
+
+We all look amazing dont we
+
+ Yeah we really do  Yes
+
+Is that really just on a cell signal
+
+Uh yes
+
+This is the amazing new company PiperChat
+
+Wait a minute
+
+I saw you at TechCrunch
+Youre Richard Hendricks
+
+ The very same Yeah
+ Youre the fucking guy that tried to walk into Coleman Blair with fraudulent numbers
+
+ No
+ GILFOYLE Uhoh
+
+ JARED That was my fault
+ Yes but no
+
+I mean that thats the old thing
+This is the new thing and I can assure you its very very real
+
+Youre not even my driver This says Sandeep in an Escalade
+
+ GILFOYLE Ah shit
+ Look look
+
+No one will even talk to us which is crazy
+
+We just surpassed  daily active users and were growing at a rate of percent organically week over week
+
+Richard thats Facebooklevel growth
+
+ Pull over now
+ DINESH That is great
+
+ERLICH Richard Richard do not pull over
+
+You will never see him again if he gets out
+
+I am not involved
+
+ERLICH Richard can you hear me
+
+Okay for real Richard You have to pull over
+
+ Richard do not do not pull over  Youll never see him again
+
+ Hey are you on the shitter
+ Pull the fuck over
+
+ ERLICH Richard
+ Okay
+
+What the fuck Are you seriously trying to kidnap me right now
+
+No Its the locks I I dont know
+Its not my car
+
+Child locks are on
+
+I was babysitting my friend Glorias greatgranddaughter
+
+ Its on the left
+ BEEPS
+
+ Got it Look look look
+ God damn it
+
+Come on Listen to me
+
+We are desperate We need funding
+
+ You need funding
+ Yes
+
+Hit a million daily active users while sustaining the same kind of growth then everybody in town will be trying to kidnap you
+
+Problem solved
+
+ERLICH Yeah easy for you to say
+
+Can you imagine how much these servers are costing me
+
+just to keep this ship afloat
+
+Right and every new user increases our server cost
+
+Really Im sorry
+
+Is it hard to become a billionaire
+
+Welcome to the Valley assholes
+
+ SIGHS fuck
+ DOOR CLOSES
+
+ GILFOYLE What a dick
+ Well assuming we dont get arrested looks like we have to work our asses off
+
+ to reduce our hosting bill
+ DOOR OPENS
+
+STAMMERS
+
+ Hi
+ Hi
+
+If you actually get to a million users call me My cells on the back
+
+Oh okay
+
+THEME MUSIC PLAYING
+
+GILFOYLE Did you finish
+
+DINESH Yeah I just pushed my code
+
+Took me two fucking days but I broke up our entire code base into parallel services
+
+You know this whole job wouldve been a lot easier if you hadnt designed sloppy services in the first place
+
+Oh silly me
+
+I guess when I hacked together the video chat as an inhouse tool
+
+I didnt foresee that hundreds of thousands of people would shit themselves over how fucking awesome it was
+
+I'll never underestimate my talents again
+
+Dont worry I'll continue to do it for you
+
+Less talk more work boys
+
+Im not paying you to coffee klatsch like a bunch of fucking yentas
+
+Youre not paying us at all
+
+Im not paying you because youre not the one getting fucked facefirst by your credit card company because of massive AWS hosting fees
+
+Well you should bear percent of the companys cost seeing as you do own percent of the company
+
+Whats taking you so long to give us our fucking shares
+
+Recapping a company is complex
+
+But I assure you Big Head and I are on the case
+
+DINESH You better be Were not gonna work for free forever
+
+Hey the Karachi Kid and I finished
+
+Did you push your code
+
+Uh actually no
+
+Well Your Highness could you please push your code
+
+Well I couldnt push that code because I didnt write that code
+
+What We stayed up for two fucking days
+
+Why didnt you write your code
+
+Well because I was working on something much better
+
+LAUGHS
+
+So I started to optimize our code to handle higher tr
+
+Youre supposed to follow me
+
+Oh
+
+I uh I started to optimize our code to handle higher traffic
+
+Then it occurred to me why rewrite our old code when I can build a new encoder that doesnt strip away a ton of channels and metadata
+
+So I extended my compression algorithm to support get this bit color
+
+LAUGHS
+
+Okay so our users will be able to experience a percent increase in image quality with absolutely no increase in server load whatsoever
+
+JustJustJust Just watch this
+
+Before
+
+After
+
+Before
+
+After
+
+Richard Im trying very hard not to completely lose my shit right now
+
+I get it I get it
+
+After every VC in town turned us down we decided that the best way to stay alive until we got to a million users was to cut server usage
+
+Remember that
+
+The whole reason that Gilfoyle and I stayed up for fucking straight hours was to decrease server load not keep it the same
+
+Technically the reason why we stayed up for two days was to maximize our ability to get a million users and I just did that
+
+Because who doesnt want percent better image quality
+
+Who doesnt want it Everyone
+
+Everyone doesnt want it
+
+GILFOYLE We already have the best video chat
+
+People are using this on their cellphones
+
+Theyre not gonna be able to tell the fucking difference
+
+Guys this is a better product and Im the CEO and Im gonna say this is where we go
+
+ You fucking prick
+ Whoa
+
+Guys please be civil
+
+ You hate the video chat
+ I dont hate the video chat Dinesh
+
+Youve always hated the video chat because its my thing and you wanna rewrite it to make it all about you
+
+Youre fucking jealous
+
+Jealous Jealous SCOFFS
+
+You built the video chat I'll give you that Okay
+
+You did but you did it using my algorithm
+
+Right like when Picasso painted a masterpiece the guy who made the brushes and the paint deserved all the credit right
+
+So youre Picasso now
+
+I think I need to leave but I love you guys
+
+Dinesh Im sorry but I think we should be doing a little bit more with this revolutionary compression algorithm than passable video chat
+
+But we already did more Richard
+
+It was called the platform
+
+And it was exactly what you wanted to make and it fucking failed okay
+
+Im sorry but its bad enough that we cant get any funding because of you
+
+Youre killing us out there
+
+Dont also sabotage us in here too
+
+Pied Piper is a video chat company
+
+Get your head around that
+
+Im quite certain Ive never said this before
+
+I agree with Dinesh
+
+Well
+
+Oh Well that was just a whole heap of fun
+
+Ordinarily I loathe coming to China but when you close a deal like that it makes the whole trip a delight
+
+Champagne gentlemen
+
+I think thats very much in order
+
+I know you dont toot your own horn so I'll do it for you
+
+Here to you Jack and to your HooliEndframe box becoming the most successful American data storage appliance to ever be manufactured in China
+
+Toot toot
+
+Watch your back Jeff Bezos here comes Hooli
+
+All right gentlemen our flight today from Shanghai to Moffett Field in Mountain View will be just over hours so if youll just
+
+Oh actually I was headed up to Jackson Hole see the wife and kids
+
+I I was gonna charter up tomorrow but maybe you could ask the boys
+
+just to drop me off on the way
+
+Save me the trouble
+
+Of course
+
+Well and I mean its really not a big deal
+
+but since we are headed east I think Jackson is further
+
+Maybe well head to Moffett first then have the guys hop you onto Jackson okay
+
+Well Well actually on flights like this the boys like to go over the Pole so that technically is a little more north to south and Jackson is quite a bit further north
+
+So I think maybe just go to Jackson first then head on off to Moffett That sound good
+
+ Of course
+ Great
+
+Im gonna get a pillow
+
+ 
+
+You know what we desperately need is a palapa
+
+A ploppa
+
+A palapa
+
+Its a Mexican structure with palm fronds
+
+Its essentially a gazebo but spicier and with a south oftheborder kind of vibe
+
+I think it would make us feel less exposed
+
+And generally I think it would be good for morale
+
+Speaking of which morale has not exactly been skyrocketing
+
+So we need to get this cap table done tout de suite
+
+Richard and the fellows are entitled to percent of the company
+
+Now if we each give percent we would still own percent each
+
+That seems fair
+
+Seems totally fair to me
+
+Dad
+
+Nope Not gonna happen
+
+Mr Bighetti with all due respect I
+
+If you had any respect
+
+you wouldnt have talked my son into wasting his money
+
+again
+
+My sons not giving up one share
+
+Not now not ever
+
+Mr Bighetti if youre going to control your sons board seat these decisions have to be unanimous
+
+Youre going to kll this comp
+
+I dont care
+
+In my eyes the company is already dead
+
+klled by you
+
+Thats my edge
+
+If all I accomplish by doing this
+
+is making you as miserable as youve made me
+
+watching you fleece my son
+
+then Im okay with that
+
+He seems okay with that
+
+So you expect me to give the percent to the gents from my percent effectively leaving me with percent
+
+Yes
+
+No No no no
+
+Then I wouldve invested thou a half of a million dollars just to end up where I started
+
+Unacceptable
+
+I can accept that
+
+Im going to bed
+
+ SIGHS
+ Good night Brown Bear
+
+Love you Papa Bear
+
+ 
+
+LAUGHING
+
+LAUGHING
+
+MUTTERS gddmn mtherfucker
+
+RICHARD I mean the guys are right
+Im fucking up the company
+
+Im not helping in any way
+
+Youre certainly not helping your cuticles by biting on them
+
+Your nail beds are gonna get infected
+
+Whered you learn how to do this anyway
+
+When I was on the street it was a means of survival
+
+ CLEARS THROAT
+ I dont know its just that
+
+I mean I almost klled us the company and that is so selfish
+
+I mean if we have to get a million users I need to get us funding right now
+
+How Weve already been turned down by every respectable VC in town
+
+ 
+
+Who said anything about respectable
+
+Oh Richard no
+
+fuck yes I want to talk business
+Whats the play
+
+Lets fuck this thing right in the pssy
+
+ SCHOOL BELL RINGS
+ Thanks for meeting me here
+
+My fucking nanny got another DUI and lost her license and Im stuck picking up
+
+my own kid like an asshole
+So whats up
+
+ PEOPLE CHATTERING
+ Uhh
+
+Well I know you wanted to buy Erlichs Pied Piper shares back in the previous iteration the platform
+
+Well I was hoping you would want to come on as a followon investor
+
+ for the current platform
+ The video chat
+
+Yeah Its got a great tech
+Were growing like crazy
+
+In fact thats why we need funding to keep up with the users and I think it could be really good if we could just keep it going
+
+No you dont
+
+What
+
+You dont like it
+
+You dont believe in this product youre selling
+
+STAMMERS Russ no thats
+Its a good sound business
+
+As I said the tech is great and all the guys are really behind it
+
+But youre not behind it Richard
+
+I can tell and as much as you want to be youre not
+
+Its like this
+
+Youre trying to date a woman
+
+ but deep down in your heart you know youre gay
+ Uhh
+
+Deep in your soul you know you would rather be plowing a dude
+
+I dont I do Okay what dude
+
+It could be any dude as long as you really want to fuck him
+
+It could be a a twink a bear an otter a circuit queen a chub a pup a gipster a daddy chaser a leather man a ladyboy a Donald Duck
+
+ STAMMERS
+ Donald Ducks a gay guy whos been kicked out of the Navy
+
+HHow do you know so many gay things
+
+My grandfather just came out of the closet Beautiful Very inspiring
+
+But the point is if youre gonna spend all day fucking shouldnt Pied Piper be a dude you wanna fuck
+
+All right Lets do an exercise
+
+Youve got unlimited time and resources you can build anything in the world you want with your compression anything at all whats it gonna be
+
+ Three two one go Go go go
+ STAMMERS
+
+ You said I have unlimited time
+ Now Now now
+
+A new Internet
+
+What Why
+
+Okay Well I havent really thought this through so
+
+Okay
+
+ I own a telescope
+ Of course you do and I brought it out one night to look at the full moon
+
+ Of course you did
+ And I got to thinking
+
+Wow we put a man on the moon using the computing power of a handheld calculator
+
+And then I thought Okay
+
+theres literally millions of times
+
+more computing power in my phone and thats just sitting in my pocket doing nothing Right
+
+So then I thought theres what billions of phones all around the world with the same computing power just sitting in peoples pockets
+
+So then I thought What if we use all those phones to build a massive network
+
+And heres the kicker We use my compression algorithm to make everything small and efficient to move things around and if we could do it
+
+we could build a completely decentralized version of our current Internet with no firewalls no tolls no government regulation no spying Information
+
+would be totally free in every sense of the word
+
+You wanna build a new Internet
+
+ Yeah its
+ Richard I like it
+
+That I would fund
+
+Well II I dont know if its possible and
+
+Look if this new Internet is the man of your dreams and this is the man that you wanna fuck then you need to fuck him
+
+That man I will pay you to fuck
+
+Where the fuck is that kid
+
+Wait a minute
+
+Aw shit
+
+They kicked us out of this place
+
+Im at the wrong fucking school
+
+Richard you find that man fuck him good
+
+ ENGINE REVVING
+ Careful please Hes gonna peel out
+
+ Cut my life into pieces this is my last resort 
+
+TIRES SCREECH
+
+Monica I need to
+
+Oh Youre not
+
+Monica No Thank God Im Ed Chen
+
+Laurie put me in the good office and moved Monica down the hall
+
+Way down the hall
+
+Okay Sorry
+
+Youre gonna listen to Russ Hanneman
+
+Richard you sound like a crazy person
+
+I know but but Russ is right
+
+TOILET FLUSHES
+
+I mean I hate the video chat
+I really do
+
+ Oh
+ What
+
+Oh wow you can see right into the
+
+Yeah Im very aware
+
+Laurie is punishing me for taking your side and going against her so she moved me down here and gave my office to that little brownnosing shit Ed Chen
+
+Anyway Richard youre not gonna seriously go home and tell the guys in your company that even though your user rates are skyrocketing that you wanna pivot
+
+For the past hours
+
+Ive been trying to rewrite the core video chat code and I literally cant
+
+Instead of typing I just bite my fingernails
+
+I think subconsciously I would rather bite my own fingers off than work on this platform
+
+Richard I know people who have spent their entire careers chasing after an app with this kind of growth rate and never hit it
+
+Its a really good product
+
+That may be but its not for me
+
+And look I know these guys are my friends but theyre also my employees and its my company
+
+So if I say we have to pivot we pivot
+
+Okay II I have to go
+
+All right Well if youre sure then tell them and then call me and tell
+
+What No I I have to go
+
+Theres another mens room on the fourth floor
+
+Right Cause then you wouldve seen mine twice CHUCKLES
+
+ 
+
+I mean were all thinking it right
+
+Richard is fucking with a product that is working
+
+He should not be the CEO of this company
+
+
+
+
+    push
+
+ SIGHS
+ I understand your concerns but is this the time that we fire Richard
+
+Is this the moment that I become the CEO
+
+You Why you
+
+Its a simple process of elimination
+
+Gilfoyle as an anarchist would never accept a position of authority
+
+ in any official organization
+ None
+
+And you of course are out of the picture because Gilfoyle would never allow it
+
+Yeah thats true
+
+And Jared hed sooner commit harakiri than replace little baby Richard
+
+So that leaves me
+
+And honestly gents who would you rather have defending your four percent stake in the company
+
+ Five
+ What
+
+ Five percent
+ You said four Was it
+
+You said three and then you had
+
+ No its five
+ GILFOYLE Five
+
+You know what Im gonna back channel look at some notes and well get to it
+
+In the meantime if and when we are to depose Richard I am his obvious heir
+
+Erlich no offense but the board is you Richard and my dad right
+
+So I think that means you and my dad would have to agree on who replaces Richard and pretty sure my dad would like never approve you
+
+ Its just not gonna happen
+ Thank you
+
+ Yeah
+ There is someone else
+
+Someone who has zero strikes against him
+
+Someone who has held highlevel positions at one of the biggest tech companies in the Valley
+
+Someone whos been on the cover of one of the most prestigious tech publications in the world
+
+He sounds awesome
+
+Could we get him
+
+ 
+
+And as of now weve got the votes of enough key Malaysian ministers to proceed with construction but that support is timecritical
+
+Carols right Wed have to break ground before monsoon season or else the entire project could collapse
+
+So what do you think
+
+Sorry About what
+
+About the factory
+
+Ah The factory
+
+The factory
+
+DOOR OPENS
+
+Excuse me for a moment
+
+CLEARS THROAT
+
+ So what have you got
+ Well sir I did as you asked
+
+I flew the company plane to Shanghai then Moffett then Jackson Hole
+
+Then I flew back to Shanghai then to Jackson Hole then to Moffett which is where I just landed
+
+ And
+ Moffett is  minutes closer
+
+I fucking knew it
+
+Barker shouldve dropped you off first sir
+
+Wait What about headwinds or storm activity
+
+I dont want to give him any room to wriggle out of this
+
+Heres what Im gonna need you to do
+
+Fly each leg five more times and average them
+
+Its the only way to be sure
+
+And were not concerned with the expense of more private transcontinental flights
+
+Of course we are
+
+Jack Barker is costing the shareholders of this company a fortune and he must be stopped
+
+I'll go back to Moffett right now
+
+Good Call me each time youre in Shanghai
+
+ I'll see you in a week
+ Yes sir
+
+ 
+
+Guys
+
+Shit he came in the back
+
+Richard we need to talk
+
+Well actually let me just say something first here
+
+I dont think Pied Piper should be a video chat company
+
+The balls on you
+
+Richard weve all decided you are out Big Head is in
+
+Not my call
+
+Richard we just cant keep fucking pivoting
+
+ We wont do it again
+ Just wait for a second okay
+
+Just Youre not getting it Please
+
+Uh Im quitting
+
+Wait What
+
+Richard I was waiting out front
+
+They want to ambush you and replace you with Big Head but I had nothing to do with it
+
+Again not my call
+
+I was ready to fight you guys but then on the way home it occurred to me there might be a better way
+
+Im going to start my own company
+
+I will give up all of my equity in the video chat if I get to completely own my algorithm
+
+I will grant you guys a perpetual license to use the algorithm in your video chat but I need the algorithm to build something else
+
+And look forget a million users with me out of the company you guys would be able to raise money no problem
+
+And that way everybody wins
+
+So we can use the algorithm free and clear for video chat
+
+Yes
+
+I mean we we shouldnt even be talking about this
+
+And you would leave behind your percent thus giving me enough equity to compensate the boys fairly and Big Heads father would retain his percent
+
+I think thats right Yes
+
+And I would own percent of your new company
+
+Wait What Why
+
+The algorithm was developed here in the Incubator
+
+Richard shame on you
+
+Well dealbreaker Lets Should we get some food
+
+No no Thats okay Its fine
+
+And Im here for advice or advice for the new CEO whoever that may be
+
+To wit uh
+
+I know its probably not my place to give this suggestion but I think it should be Dinesh
+
+ What
+ What
+
+ What
+ What
+
+ Yeah Sorry Big Head
+ What
+
+Yeah Dinesh you were the one that hacked together the video chat in the first place
+
+You know the product inside and out
+
+You are the horse that I would bet on
+
+You really think so
+
+I do
+
+Im down Gilfoyle
+
+Gilfoyle can I please be CEO of Pied Piper
+
+Spoken like a true leader
+
+But since your failure as a leader is a virtual certainty tolerating your short reign as CEO in exchange for a frontrow seat to the disaster seems fair
+
+Plus if Im wrong which Im not
+
+I get rich So Im down with it Dinesh
+
+Jared what do you think about this
+
+I think this is crazy
+
+I left my job at Hooli to to come work with you Richard
+
+And and now youre leaving
+
+Look these guys theyre gonna need you so if you want to support me you support them
+
+Think you can do that
+
+JARED Ive always been very adept at taking the shape of whatever shoe was pressed down upon me so I can try to make it work
+
+ERLICH Then its settled
+
+Dinesh is the new CEO of Pied Piper
+
+Oh Actually just one last thing
+
+I think you guys should call yourselves PiperChat
+
+Im gonna have to insist that I keep the name Pied Piper and I wont budge on that
+
+ Yeah its totally fine
+ Okay yeah Who gives a shit
+
+ Thats fine
+ Terrible fucking name
+
+Lets get to work
+
+Congratulations
+
+So wait I dont have to be CEO right
+
+Dinesh is going to do that
+
+ERLICH All right Lets figure out how this gets split up
+
+GUYS CHATTERING
+
+DINESH Lets see
+
+And um yeah
+
+ RICHARD Jared
+ DINESH SPEAKS INDISCERNIBLY
+
+go
+
+Go on man
+
+Get out of here
+
+ERLICH Dinesh youll get five percent
+
+Gilfoyle five percent
+
+ Jared five percent
+ DINESH Yeah Okay so we all get five not four
+
+ERLICH Now you said you said four
+
+DINESH No five I said five
+
+Jared can we get five more engineers
+
+ERLICH Thats That would come out of Jareds percentage
+
+ DINESH No
+ GUYS CHATTERING
+
+ 
+
+SIGHS
+
+You wanted to see me Skipper
+
+I did indeed
+
+Jack I appreciate everything youve done in your position as head of the HooliEndframe box but I think the companys needs are better suited if I move you elsewhere
+
+Really
+
+Well I appreciate the vote of confidence GB
+
+STAMMERS Im flattered
+
+Frankly little bit surprised
+
+Why would you be surprised
+Can you think of any reason
+
+why you dont deserve a promotion
+
+I mean anything at all Well
+
+I dont want to hurt my arm patting myself on the back but right off the top of my head
+
+No I guess not
+
+I mean youve always been straight with me right
+
+Straight to the point
+
+I sure have
+
+And youve always gone out of your way for me yes
+
+Always put me first
+Gone the extra mile
+
+Gosh I sure tried
+
+Did you
+
+LAUGHS All right Jack
+
+Professor Gary in HR will set you up
+
+Enjoy your new offices
+
+Thank you sir
+
+ 
+
+Oh hey Would you like to see your desk
+
+Okay
+
+Here it is
+
+This is your desk
+
+TOILET FLUSHES
+
+ Thethethe system will defeat itself 
+
+ Nothin stays in a steady state 
+
+ It overheats and melts 
+
+ It only feeds itself 
+
+ The system yo I think it exists 
+
+ Just because like a pit eats its pups 
+
+ Eats its own litter up the systems fucked its corrupt 
+
+ Its for its own survival its genocidal 
+
+ No place of origin no beginning cycle 
+
+ Lets occupy all streets 
+
+ Its crazy to think in the  s I wanted minks 
+
+ And a Benz to listen to Michael 
+
+ And Grand Poobah Maxwell 
+
+ To get cash while Im sipping on drinks 
+
+ In Nike sweatsuits and Gucci links 
+
+ Im like a Russian mob figure Im mad low 
+
+ In the shadows big up to Shadow 
+
+ DDDJ Shadow we rose to throw blows 
+
+ Cant see me but Nas moving the fastest 
+
+ Im a D movie no needed glasses 
+
+ Im a D movie no needed glasses 
+
+ Hold your breath for seconds 
+
+ Close your eyes cover your ears do not listen 
+
+ Try to feel what Im sayin 
+
+ To make you feel is 
+
+ My new expression new expression 
